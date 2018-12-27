@@ -71,3 +71,7 @@
 0.0.0.0 feedback.windows.com
 0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 feedback.search.microsoft.com
+# roku
+austin.logs.roku.com
+# miscellaneous
+api1.origin.com
