@@ -80,3 +80,31 @@
 # miscellaneous
 # disable or whitelist if playing games on Origin
 0.0.0.0 api1.origin.com
+
+
+# malware protection
+#
+# unit42
+# https://unit42.paloaltonetworks.com
+# 
+0.0.0.0 theme.blogsite.org 
+0.0.0.0 cortana.homelinux.com 
+0.0.0.0 word.webhop.info 
+0.0.0.0 work.windownoffice[.]com 
+0.0.0.0 cortanasyn.com 
+0.0.0.0 e.browsersyn.com 
+0.0.0.0 syn.servebbs.com 
+0.0.0.0 service.windown-update.com 
+0.0.0.0 check.homeip.net 
+0.0.0.0 outlook.updateoffices.net 
+0.0.0.0 mail.fptservice.net 
+0.0.0.0 office.windown-update.com 
+0.0.0.0 cortanazone.com 
+0.0.0.0 beta.officopedia.com 
+0.0.0.0 videos.dyndns.org 
+0.0.0.0 service.serveftp.org 
+0.0.0.0 syn.browserstime.com 
+0.0.0.0 check.webhop.org 
+0.0.0.0 ristineho.com
+0.0.0.0 hxxps://ptpb.pw/OAZG
+0.0.0.0 46.226.108.171
